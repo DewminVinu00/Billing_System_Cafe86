@@ -1,0 +1,15 @@
+C:\Users\Dewmin Vinuraka\OneDrive\Desktop\C#  Final Assignment\C# Project\CAFE 86\CAFE 86\bin\Debug\CAFE 86.exe.config
+C:\Users\Dewmin Vinuraka\OneDrive\Desktop\C#  Final Assignment\C# Project\CAFE 86\CAFE 86\bin\Debug\CAFE 86.exe
+C:\Users\Dewmin Vinuraka\OneDrive\Desktop\C#  Final Assignment\C# Project\CAFE 86\CAFE 86\bin\Debug\CAFE 86.pdb
+C:\Users\Dewmin Vinuraka\OneDrive\Desktop\C#  Final Assignment\C# Project\CAFE 86\CAFE 86\obj\Debug\CAFE 86.csproj.AssemblyReference.cache
+C:\Users\Dewmin Vinuraka\OneDrive\Desktop\C#  Final Assignment\C# Project\CAFE 86\CAFE 86\obj\Debug\CAFE_86.Properties.Resources.resources
+C:\Users\Dewmin Vinuraka\OneDrive\Desktop\C#  Final Assignment\C# Project\CAFE 86\CAFE 86\obj\Debug\CAFE 86.csproj.GenerateResource.cache
+C:\Users\Dewmin Vinuraka\OneDrive\Desktop\C#  Final Assignment\C# Project\CAFE 86\CAFE 86\obj\Debug\CAFE 86.csproj.CoreCompileInputs.cache
+C:\Users\Dewmin Vinuraka\OneDrive\Desktop\C#  Final Assignment\C# Project\CAFE 86\CAFE 86\obj\Debug\CAFE 86.exe
+C:\Users\Dewmin Vinuraka\OneDrive\Desktop\C#  Final Assignment\C# Project\CAFE 86\CAFE 86\obj\Debug\CAFE 86.pdb
+C:\Users\Dewmin Vinuraka\OneDrive\Desktop\C#  Final Assignment\C# Project\CAFE 86\CAFE 86\obj\Debug\CAFE_86.Logging.resources
+C:\Users\Dewmin Vinuraka\OneDrive\Desktop\C#  Final Assignment\C# Project\CAFE 86\CAFE 86\obj\Debug\CAFE_86.MainPage.resources
+C:\Users\Dewmin Vinuraka\OneDrive\Desktop\C#  Final Assignment\C# Project\CAFE 86\CAFE 86\obj\Debug\CAFE_86.Menu.resources
+C:\Users\Dewmin Vinuraka\OneDrive\Desktop\C#  Final Assignment\C# Project\CAFE 86\CAFE 86\obj\Debug\CAFE_86.Burgers_menu.resources
+C:\Users\Dewmin Vinuraka\OneDrive\Desktop\C#  Final Assignment\C# Project\CAFE 86\CAFE 86\obj\Debug\CAFE_86.Drinks_Menu.resources
+C:\Users\Dewmin Vinuraka\OneDrive\Desktop\C#  Final Assignment\C# Project\CAFE 86\CAFE 86\obj\Debug\CAFE_86.IceCreamMenu.resources
